@@ -1,0 +1,16 @@
+REFLECTION & APPROACH
+
+Approach:
+
+When building the web page the approach I took involved each step focusing on the description and requirements of the product.
+Created the main sections
+(navigation,header,features,pricing,call to action footer) in the order specified.
+Used comments to organize document the code.
+Added placeholder links and simple content to each section for testing.
+ 
+
+Learning:
+
+Practiced using semantic HTML tags like <header>, <section>, <footer>
+Learned how to create navigation menus with <ul> and <li>
+Used horizontal lines <hr> to separate content visually.
